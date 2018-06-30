@@ -61,3 +61,4 @@ def for_iterator(number_of_times)
   
 end
 
+loop_iterator(3)
